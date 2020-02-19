@@ -8,5 +8,6 @@ Planned improvements:
 1. Player gets to choose whether to go first or second
 2. Alpha-beta pruning
 3. Input validation
-4. Simple JavaFX GUI
+4. Modularise code
+5. Simple JavaFX GUI
 
